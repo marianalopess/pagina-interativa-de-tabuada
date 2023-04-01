@@ -1,0 +1,27 @@
+body {
+    background-color: #d6f8c9;
+    font: normal 15pt arial;
+    margin: auto;
+    text-align: center;
+}
+header {
+    color: #4a8333;
+}
+section {
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+    margin: auto;
+    max-width: 600px;
+}
+img {
+    margin-top: 15px;
+    border-radius: 20px;
+}
+footer {
+    color: #4a8333;
+}
+select {
+    margin-top: 15px;
+}
